@@ -3,7 +3,7 @@ export const APP_ID = '74ea0181-f43c-4316-9f55-898fc4702520'
 export const API_KEY = 'app-aCk945HZ51YX1AtHFwYacA4l'
 //54555
 export const APP_INFO: AppInfo = {
-    "title": '8888',
+    "title": '776576675',
     "description": '',
     "copyright": '',
     "privacy_policy": '',
